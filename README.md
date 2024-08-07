@@ -4,11 +4,11 @@
 
 <a href="https://www.npmjs.com/package/@titaniumnetwork-dev/ultraviolet"><img src="https://img.shields.io/npm/v/@titaniumnetwork-dev/ultraviolet.svg?maxAge=3600" alt="npm version" /></a>
 
-Ultraviolet is a highly advanced web proxy used for evading internet censorship or accessing websites in a controlled sandbox. It is designed with security and performance in mind. Ultraviolet intercepts HTTP requests with a service worker, while adhering to the [TompHTTP specifications](https://github.com/tomphttp) and is a leader in innovative web proxy technologies.
+
 
 ## Features
 
-Ultraviolet offers several features that set it apart from its predecessors, including CAPTCHA and hCAPTCHA support, URL encoding settings for added security, client-side configuration via service-workers, high speed compared to other web proxies, blacklist settings and more for easy hosting, leak prevention, regular updates, and improved resource usage and speed for better setups with a dedicated server instance.
+
 
 ## Supported Sites
 
