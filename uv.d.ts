@@ -5,7 +5,7 @@ export type UltravioletCtor = typeof Ultraviolet;
 export type UVClientCtor = typeof UVClient;
 
 /**
- * The proxy part of the URL.
+ * The  part of the URL.
  */
 type Coded = string;
 
@@ -24,7 +24,7 @@ export type UVDecode = (input: Coded) => string;
 export type UVInject = {
     /**
      * The host(s) to inject the HTML on.
-     * This is a regex that's tested against the proxied URL's host.
+     * This is a regex that's tested against the  URL's host.
      */
     host: RegExp;
     /**
